@@ -1,0 +1,2 @@
+# jokesbot
+Jokesbot for slack
